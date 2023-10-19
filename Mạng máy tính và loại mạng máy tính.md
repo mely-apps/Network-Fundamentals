@@ -6,6 +6,7 @@ Mạng máy tính(computer network) là một hệ thống bao gồm nhiều má
 Chức năng của mạng máy tính là giúp các hoạt động trao đổi dữ liệu, chia sẻ tài nguyên giữa các máy tính trong hệ thống dễ dàng hơn mà không cần sử dụng các thiết bị hỗ trợ bên ngoài như: USB, thẻ nhớ, đĩa CD...
 
 **Phân biệt các loại mạng máy tính hiện nay:**
+
 1.Mạng LAN hay còn được biết đến là mạng cục bộ (Local Area Network): Đây là một mạng máy tính được sử dụng để kết nối các thiết bị trên một khu vực hẹp, chẳng hạn như trong một văn phòng, một tòa nhà, hoặc một khu phố. Mục đích của mạng LAN là để chia sẻ tài nguyên và dữ liệu giữa các thiết bị trong khu vực đó.
 
 2.Mạng WAN hay mạng diện rộng (Wide Area Network): Mục đích của mạng WAN là kết nối các mạng LAN khác nhau với nhau để tạo thành một mạng lớn hơn và cho phép chia sẻ tài nguyên và dữ liệu giữa các địa điểm khác nhau.Chính vì thế, dạng kết nối này sẽ được bao phủ ở các môi trường như: Thành phố, quốc gia,… Ví dụ, mạng WAN kết nối các chi nhánh của một tập đoàn trên khắp các khu vực địa lý khác nhau.
